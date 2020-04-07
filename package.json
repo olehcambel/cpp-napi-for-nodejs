@@ -1,5 +1,5 @@
 {
-  "name": "n-api-medium",
+  "name": "cpp-napi-for-nodejs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "node-gyp": "^6.0.1"
+    "node-gyp": "^6.1.0"
   },
   "dependencies": {
-    "node-addon-api": "^1.7.1"
+    "node-addon-api": "^2.0.0"
   }
 }
